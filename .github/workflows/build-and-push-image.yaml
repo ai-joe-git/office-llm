@@ -1,5 +1,5 @@
 # This Github action is for publishing of the primary image for AnythingLLM
-# It will publish a linux/amd64 and linux/arm64 image at the same time
+# It will publish a linux/amd64 and linux/arm64 image at the same time !
 # This file should ONLY BY USED FOR `master` BRANCH. 
 # TODO: Update `runs-on` for arm64 when GitHub finally supports
 # native arm environments as QEMU takes around 1 hour to build
